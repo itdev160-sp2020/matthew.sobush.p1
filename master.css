@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    background-color: honeydew;
+}
+body { 
+    margin:2px 3px;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Baloo 2', cursive sans-serif;
+    background-color: grey;
+    color: ivory;
+
+}
+
+header{
+    background-color:darkgray;
+    color:cornsilk;
+    padding: 2em, 3em;
+    text-align: center;
+}
+
+aside.a{
+    float: right;
+    width: 49%;
+    height:200px;
+    border-bottom: 3px solid black;
+}
+aside.b{
+    float: left;
+    width: 49%;
+    height:200px;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+}
+section{
+    float:clear;
+    height: 75 px;
+
+}
+footer{
+    text-align: right;
+    height: 60px;
+    background-color: black;
+    color: whitesmoke;
+}
